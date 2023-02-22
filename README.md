@@ -1,14 +1,10 @@
 # Portfolio Website - Astro
 
-Just change `src/data/info.ts` to get your personal portfolio.
-
-## portfolio template for Developers!
-
 ![Feature Image](./public/assets/images/astro-portfolio.png)
 
 ## 🚀 Project Structure
 
-Inside of your Astro project, you'll see the following folders and files:
+Project Structure:
 
 ```
 /
@@ -41,13 +37,6 @@ Inside of your Astro project, you'll see the following folders and files:
 └── ...
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/assets` directory.
-
-Your personal data would be go on `src/data` directory.
 
 ## 🧞 Commands
 
@@ -64,4 +53,3 @@ All commands are run from the root of the project, from a terminal:
 
 ## 👀 Want to learn more?
 
-Feel free to check [Astro documentation](https://docs.astro.build) or jump into Astro [Discord server](https://astro.build/chat).
