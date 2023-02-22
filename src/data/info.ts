@@ -1,11 +1,11 @@
 export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
+  name: "Kyriakos Michael",
   jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
+  about: `I'm a software developer based in Nicosia, Cyprus.
    I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
+   I have been working for 5 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
+   I have 5 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, Vue JS and React JS. Hence,
    I have successfully completed several web projects from scratch. 
    Yet, I learn continuously and never stop exploring new technologies.
    So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
@@ -78,11 +78,11 @@ export const info = {
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    facebook: "https://www.facebook.com/kyriakos.michail.5",
+    twitter: "https://twitter.com/Key__michael",
+    github: "https://github.com/Kyriakos-Michael",
+    email: "kyriakosmichail@gmail.com",
+    linkedin: "https://www.linkedin.com/in/kyriakos-michael/",
   },
 
   projects: [
