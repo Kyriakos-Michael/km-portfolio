@@ -1,22 +1,21 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://singular-beignet-ab9f0e.netlify.app/",
   name: "Kyriakos Michael",
   jobDescription: "Web Developer",
-  about: `I'm a software developer based in Nicosia, Cyprus.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 5 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 5 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, Vue JS and React JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
+  about: `As a highly motivated professional, I am committed to continuous growth and learning. With over 5 years of experience in software development, I have honed my skills and built a strong foundation of knowledge that I apply to every project I work on.
+
+  As a dedicated Web Developer, I am constantly exploring new ways to enhance my skills and stay up-to-date with the latest technologies and trends. My expertise in web development is backed by a proven track record of successful projects.
+  
+  My proficiency in Javascript and innate problem-solving abilities enable me to find creative solutions to complex challenges. I excel in both front-end and back-end development and take great pride in delivering work of the highest quality, with unwavering attention to detail.
+  
+  I am excited to connect with fellow professionals and like-minded individuals in the web development industry. Let's explore potential opportunities for collaboration and growth together.
   `,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
+      name: "Xamplifier, LLC",
+      location: "Chicago, LL, USA",
+      startDate: "Jun 2018",
       endDate: "Present",
       description: [
         "- Developing screens and UI components for the web application using React and Tailwind.",
@@ -25,8 +24,8 @@ export const info = {
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
+      name: "Jenus Technologies LTD",
+      location: "Nicosia, Cyprus",
       startDate: "Nov 2020",
       endDate: "Apr 2022",
       description: [
@@ -37,18 +36,7 @@ export const info = {
         "✓ Code Improvements and Refactoring ",
         "✓ Best Practices and Rules Maintainer",
       ],
-    },
-
-    {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
-      description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
-      ],
-    },
+    }
   ],
 
   education: [
