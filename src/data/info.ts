@@ -18,21 +18,23 @@ export const info = {
       startDate: "Jun 2018",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "XAmplifier's mission is to give companies understandable tools to discover their x-factor by leveraging customer experience, digital reputation, review generation, marketing automation and data warehousing",
+        "- Fixing UI issues and integrating backend APIs with Vue and Laravel ( PHP )",
+        "- Develop new screens and break into components",
       ],
     },
 
     {
       name: "Jenus Technologies LTD",
       location: "Nicosia, Cyprus",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      startDate: "Nov 2015",
+      endDate: "Jun 2018",
       description: [
+        "Jenus Technologies Limited is a premier provider of information technology services and solutions to any size of businesses and entrepreneurs. It provides business analysis, technology and implementation services. Jenus is primarily focused on enterprise information and process management domains.",
         "✓ Developing code in accordance with appropriate design and architectural rules",
         "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
         "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
+        "✓ Project & Team Management",
         "✓ Code Improvements and Refactoring ",
         "✓ Best Practices and Rules Maintainer",
       ],
