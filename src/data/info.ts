@@ -83,5 +83,11 @@ export const info = {
       githubUrl: "https://github.com/uzzii-21/astro-portfolio",
       liveUrl: "https://astro-portfolio-uzair.vercel.app/",
     },
+    {
+      title: "Bookydays",
+      isFeatured: true,
+      thumbnail: "/assets/images/astro-portfolio.png",
+      liveUrl: "https://bookydays.up.railway.app/",
+    },
   ],
 };
