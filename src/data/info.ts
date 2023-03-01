@@ -72,7 +72,7 @@ export const info = {
     {
       title: "Bookydays",
       isFeatured: true,
-      thumbnail: "/assets/images/astro-portfolio.png",
+      thumbnail: "/assets/images/bookydays-portfolio.png",
       liveUrl: "https://bookydays.up.railway.app/",
     },
   ],
