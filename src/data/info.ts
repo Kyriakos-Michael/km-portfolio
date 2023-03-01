@@ -43,28 +43,14 @@ export const info = {
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
+      name: "Computrain CY",
+      location: "Nicosia, Cyprus",
+      startDate: "2014",
+      endDate: "2016",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        "Diploma of Associate Engineering,  Computer Information Technology (CIT). HND has provided me a rich set of Fundamental Skills in the Information Technology Industry.",
       ],
-    },
-    {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
-    },
+    }
   ],
 
   socialMedia: {
